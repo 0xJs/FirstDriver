@@ -1,0 +1,8 @@
+﻿  Building 'FirstDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  driver.c
+  FirstDriver.vcxproj -> C:\Users\user\source\repos\CETP\FirstDriver\x64\Debug\FirstDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\source\repos\CETP\FirstDriver\x64\Debug\FirstDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  

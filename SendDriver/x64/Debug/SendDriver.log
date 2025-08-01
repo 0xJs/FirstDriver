@@ -1,0 +1,8 @@
+﻿  Building 'SendDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  driver.c
+  SendDriver.vcxproj -> C:\Users\user\source\repos\CETP\FirstDriver\x64\Debug\SendDriver.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\source\repos\CETP\FirstDriver\x64\Debug\SendDriver.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
