@@ -1,8 +1,0 @@
-﻿  Building 'GetDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
-  driver.c
-  GetDriver.vcxproj -> C:\Users\user\source\repos\CETP\FirstDriver\x64\Debug\GetDriver.sys
-  Done Adding Additional Store
-  Successfully signed: C:\Users\user\source\repos\CETP\FirstDriver\x64\Debug\GetDriver.sys
-  
-  Inf2Cat task was skipped as there were no inf files to process
-  
